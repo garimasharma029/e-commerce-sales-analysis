@@ -66,7 +66,7 @@ Some of the analyses include:
 
 <img width="698" height="397" alt="image" src="https://github.com/user-attachments/assets/2328a385-5894-479d-9d5e-5c91d821947b" />
 
-<img width="611" height="723" alt="image" src="https://github.com/user-attachments/assets/66ce022b-95d6-460d-b49d-56f2a8a12d90" />
+<img width="612" height="750" alt="image" src="https://github.com/user-attachments/assets/429d565b-5961-4365-b4d0-10638bfacd40" />
 
 ## Author
 
