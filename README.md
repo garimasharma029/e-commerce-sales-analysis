@@ -62,7 +62,11 @@ Some of the analyses include:
 
 ## Sample Visualizations
 
-(Add screenshots of your charts here after completing the project.)
+<img width="617" height="527" alt="image" src="https://github.com/user-attachments/assets/5113639f-af30-4eef-b0ac-0eb1e1a2d225" />
+
+<img width="698" height="397" alt="image" src="https://github.com/user-attachments/assets/2328a385-5894-479d-9d5e-5c91d821947b" />
+
+<img width="611" height="723" alt="image" src="https://github.com/user-attachments/assets/66ce022b-95d6-460d-b49d-56f2a8a12d90" />
 
 ## Author
 
